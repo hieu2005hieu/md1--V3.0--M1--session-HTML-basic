@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="588ee2e6-39d2-49e6-af6f-454860ca4494" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/abc.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -22,6 +23,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "hieu2005hieu"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="19ad6382-ac65-4724-b3ea-ff33501422f2" />
+        <option name="url" value="https://github.com/hieu2005hieu/md1--V3.0--M1--session1-HTML-basic.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -64,7 +79,7 @@
       <workItem from="1691056578548" duration="2129000" />
       <workItem from="1691067631405" duration="40000" />
       <workItem from="1691069137369" duration="1044000" />
-      <workItem from="1691109283592" duration="8242000" />
+      <workItem from="1691109283592" duration="10573000" />
     </task>
     <servers />
   </component>
